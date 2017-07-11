@@ -1,0 +1,57 @@
+ =============================================================================
+***SFJ***
+*** Informe Diario*** 
+
+
+Dia  1
+Tiempo:  108705.714286 [segundos] 30.196031746 [horas]
+Cartas sin entregar
+ P1: 0  P2: 0  P3: 0
+Paquetes sin entregar
+ V1: 0  V2: 0  V3: 0
+
+
+
+
+Tiempo total para los dias laborables 108705.714286 [segundos] 30.196031746 [horas]
+Dias trabajado (dias necesarios) 1 ( 1 )
+Viajes realizados 7
+ =============================================================================
+***Prioridad***
+*** Informe Diario*** 
+
+
+Dia  1
+Tiempo:  120024.285714 [segundos] 33.3400793651 [horas]
+Cartas sin entregar
+ P1: 0  P2: 0  P3: 0
+Paquetes sin entregar
+ V1: 0  V2: 0  V3: 0
+
+
+
+
+Tiempo total para los dias laborables 120024.285714 [segundos] 33.3400793651 [horas]
+Dias trabajado (dias necesarios) 1 ( 1 )
+Viajes realizados 7
+
+
+
+ =============================================================================
+****FIFO****
+*** Informe Diario*** 
+
+
+Dia  1
+Tiempo:  288401.428571 [segundos] 80.1115079365 [horas]
+Cartas sin entregar
+ P1: 0  P2: 0  P3: 0
+Paquetes sin entregar
+ V1: 0  V2: 0  V3: 0
+
+
+
+
+Tiempo total para los dias laborables 288401.428571 [segundos] 80.1115079365 [horas]
+Dias trabajado (dias necesarios) 1 ( 1 )
+Viajes realizados 7

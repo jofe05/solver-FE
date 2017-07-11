@@ -1,0 +1,4498 @@
+Inicianilizando Variables - FIFO
+Cartas acumuladas  0
+Volumen acumulado  0
+Analizo la casa 0
+De la calle 1
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  0
+Volumen acumulado  0
+Analizo la casa 1
+De la calle 1
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  0
+Volumen acumulado  0
+Analizo la casa 325
+De la calle 2
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  3
+Volumen acumulado  0.0
+Analizo la casa 462
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  3
+Volumen acumulado  0.0
+Analizo la casa 543
+De la calle 3
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  3
+Volumen acumulado  0.0
+Analizo la casa 196
+De la calle 1
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  3
+Volumen acumulado  0.0
+Analizo la casa 100
+De la calle 1
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  6
+Volumen acumulado  0.0
+Analizo la casa 22
+De la calle 1
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  6
+Volumen acumulado  0.0
+Analizo la casa 687
+De la calle 3
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  6
+Volumen acumulado  0.0
+Analizo la casa 102
+De la calle 1
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  9
+Volumen acumulado  0.0
+Analizo la casa 338
+De la calle 2
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  3 paquetes en esta casa
+Me muevo
+Cartas acumuladas  12
+Volumen acumulado  65.0
+Analizo la casa 564
+De la calle 3
+Tengo que entregar  2 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  14
+Volumen acumulado  65.0
+Analizo la casa 26
+De la calle 1
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  14
+Volumen acumulado  65.0
+Analizo la casa 313
+De la calle 2
+Tengo que entregar  2 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  16
+Volumen acumulado  65.0
+Analizo la casa 37
+De la calle 1
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  16
+Volumen acumulado  65.0
+Analizo la casa 75
+De la calle 1
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  19
+Volumen acumulado  65.0
+Analizo la casa 89
+De la calle 1
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  22
+Volumen acumulado  65.0
+Analizo la casa 373
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  22
+Volumen acumulado  65.0
+Analizo la casa 637
+De la calle 3
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  25
+Volumen acumulado  65.0
+Analizo la casa 156
+De la calle 1
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  28
+Volumen acumulado  65.0
+Analizo la casa 110
+De la calle 1
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  2 paquetes en esta casa
+Me muevo
+Cartas acumuladas  31
+Volumen acumulado  110.0
+Analizo la casa 284
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  31
+Volumen acumulado  110.0
+Analizo la casa 366
+De la calle 2
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  34
+Volumen acumulado  110.0
+Analizo la casa 272
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  34
+Volumen acumulado  110.0
+Analizo la casa 351
+De la calle 2
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  37
+Volumen acumulado  110.0
+Analizo la casa 195
+De la calle 1
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  37
+Volumen acumulado  110.0
+Analizo la casa 256
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  37
+Volumen acumulado  110.0
+Analizo la casa 357
+De la calle 2
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  40
+Volumen acumulado  110.0
+Analizo la casa 319
+De la calle 2
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  43
+Volumen acumulado  110.0
+Analizo la casa 13
+De la calle 1
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  43
+Volumen acumulado  110.0
+Analizo la casa 649
+De la calle 3
+Tengo que entregar  2 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+===================CARTERO:VUELVO A LA OFICINA: FIN DE JORNADA=============================
+Cartas acumuladas  45
+Volumen acumulado  110.0
+Analizo la casa 531
+De la calle 3
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  45
+Volumen acumulado  110.0
+Analizo la casa 348
+De la calle 2
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  48
+Volumen acumulado  110.0
+Analizo la casa 397
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  48
+Volumen acumulado  110.0
+Analizo la casa 20
+De la calle 1
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  48
+Volumen acumulado  110.0
+Analizo la casa 509
+De la calle 3
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  48
+Volumen acumulado  110.0
+Analizo la casa 233
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  48
+Volumen acumulado  110.0
+Analizo la casa 224
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  48
+Volumen acumulado  110.0
+Analizo la casa 122
+De la calle 1
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  2 paquetes en esta casa
+Me muevo
+Cartas acumuladas  51
+Volumen acumulado  142.0
+Analizo la casa 321
+De la calle 2
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  54
+Volumen acumulado  142.0
+Analizo la casa 568
+De la calle 3
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  57
+Volumen acumulado  142.0
+Analizo la casa 258
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  57
+Volumen acumulado  142.0
+Analizo la casa 140
+De la calle 1
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  60
+Volumen acumulado  142.0
+Analizo la casa 491
+De la calle 3
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  60
+Volumen acumulado  142.0
+Analizo la casa 143
+De la calle 1
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  63
+Volumen acumulado  142.0
+Analizo la casa 503
+De la calle 3
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  63
+Volumen acumulado  142.0
+Analizo la casa 459
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  63
+Volumen acumulado  142.0
+Analizo la casa 71
+De la calle 1
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  66
+Volumen acumulado  142.0
+Analizo la casa 575
+De la calle 3
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  69
+Volumen acumulado  142.0
+Analizo la casa 474
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  69
+Volumen acumulado  142.0
+Analizo la casa 72
+De la calle 1
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  72
+Volumen acumulado  142.0
+Analizo la casa 650
+De la calle 3
+Tengo que entregar  2 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  74
+Volumen acumulado  142.0
+Analizo la casa 51
+De la calle 1
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  74
+Volumen acumulado  142.0
+Analizo la casa 533
+De la calle 3
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  74
+Volumen acumulado  142.0
+Analizo la casa 522
+De la calle 3
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  74
+Volumen acumulado  142.0
+Analizo la casa 30
+De la calle 1
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  74
+Volumen acumulado  142.0
+Analizo la casa 221
+De la calle 1
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  74
+Volumen acumulado  142.0
+Analizo la casa 270
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  74
+Volumen acumulado  142.0
+Analizo la casa 200
+De la calle 1
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  74
+Volumen acumulado  142.0
+Analizo la casa 699
+De la calle 3
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  74
+Volumen acumulado  142.0
+Analizo la casa 86
+De la calle 1
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  77
+Volumen acumulado  142.0
+Analizo la casa 582
+De la calle 3
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  80
+Volumen acumulado  142.0
+Analizo la casa 267
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  80
+Volumen acumulado  142.0
+Analizo la casa 362
+De la calle 2
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  83
+Volumen acumulado  142.0
+Analizo la casa 416
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  83
+Volumen acumulado  142.0
+Analizo la casa 260
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  83
+Volumen acumulado  142.0
+Analizo la casa 169
+De la calle 1
+Tengo que entregar  2 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+===================CARTERO:VUELVO A LA OFICINA: FIN DE JORNADA=============================
+Cartas acumuladas  85
+Volumen acumulado  142.0
+Analizo la casa 138
+De la calle 1
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  88
+Volumen acumulado  142.0
+Analizo la casa 155
+De la calle 1
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  91
+Volumen acumulado  142.0
+Analizo la casa 296
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  91
+Volumen acumulado  142.0
+Analizo la casa 231
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  91
+Volumen acumulado  142.0
+Analizo la casa 193
+De la calle 1
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  91
+Volumen acumulado  142.0
+Analizo la casa 119
+De la calle 1
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  3 paquetes en esta casa
+Me muevo
+Cartas acumuladas  94
+Volumen acumulado  207.0
+Analizo la casa 583
+De la calle 3
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  97
+Volumen acumulado  207.0
+Analizo la casa 342
+De la calle 2
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  3 paquetes en esta casa
+Me muevo
+Cartas acumuladas  100
+Volumen acumulado  272.0
+Analizo la casa 129
+De la calle 1
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  103
+Volumen acumulado  272.0
+Analizo la casa 121
+De la calle 1
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  2 paquetes en esta casa
+Me muevo
+Cartas acumuladas  106
+Volumen acumulado  304.0
+Analizo la casa 679
+De la calle 3
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  106
+Volumen acumulado  304.0
+Analizo la casa 153
+De la calle 1
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+===================CARTERO:VUELVO A LA OFICINA POR MAS CARTAS=============================
+Cartas acumuladas  2.0
+Volumen acumulado  0
+Analizo la casa 480
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  2.0
+Volumen acumulado  0
+Analizo la casa 353
+De la calle 2
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  5.0
+Volumen acumulado  0.0
+Analizo la casa 394
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  5.0
+Volumen acumulado  0.0
+Analizo la casa 191
+De la calle 1
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  5.0
+Volumen acumulado  0.0
+Analizo la casa 163
+De la calle 1
+Tengo que entregar  2 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  7.0
+Volumen acumulado  0.0
+Analizo la casa 464
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  7.0
+Volumen acumulado  0.0
+Analizo la casa 247
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  7.0
+Volumen acumulado  0.0
+Analizo la casa 494
+De la calle 3
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  7.0
+Volumen acumulado  0.0
+Analizo la casa 635
+De la calle 3
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  10.0
+Volumen acumulado  0.0
+Analizo la casa 31
+De la calle 1
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  10.0
+Volumen acumulado  0.0
+Analizo la casa 629
+De la calle 3
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  13.0
+Volumen acumulado  0.0
+Analizo la casa 454
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  13.0
+Volumen acumulado  0.0
+Analizo la casa 570
+De la calle 3
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  16.0
+Volumen acumulado  0.0
+Analizo la casa 323
+De la calle 2
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+===================CARTERO:VUELVO A LA OFICINA: FIN DE JORNADA=============================
+Cartas acumuladas  19.0
+Volumen acumulado  0.0
+Analizo la casa 421
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  19.0
+Volumen acumulado  0.0
+Analizo la casa 306
+De la calle 2
+Tengo que entregar  1 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  20.0
+Volumen acumulado  0.0
+Analizo la casa 518
+De la calle 3
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  20.0
+Volumen acumulado  0.0
+Analizo la casa 559
+De la calle 3
+Tengo que entregar  2 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  22.0
+Volumen acumulado  0.0
+Analizo la casa 519
+De la calle 3
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  22.0
+Volumen acumulado  0.0
+Analizo la casa 410
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  22.0
+Volumen acumulado  0.0
+Analizo la casa 11
+De la calle 1
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  22.0
+Volumen acumulado  0.0
+Analizo la casa 360
+De la calle 2
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  25.0
+Volumen acumulado  0.0
+Analizo la casa 227
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  25.0
+Volumen acumulado  0.0
+Analizo la casa 638
+De la calle 3
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  28.0
+Volumen acumulado  0.0
+Analizo la casa 197
+De la calle 1
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  28.0
+Volumen acumulado  0.0
+Analizo la casa 599
+De la calle 3
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  3 paquetes en esta casa
+Me muevo
+Cartas acumuladas  31.0
+Volumen acumulado  65.0
+Analizo la casa 544
+De la calle 3
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  31.0
+Volumen acumulado  65.0
+Analizo la casa 479
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  31.0
+Volumen acumulado  65.0
+Analizo la casa 580
+De la calle 3
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  34.0
+Volumen acumulado  65.0
+Analizo la casa 581
+De la calle 3
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  37.0
+Volumen acumulado  65.0
+Analizo la casa 579
+De la calle 3
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  40.0
+Volumen acumulado  65.0
+Analizo la casa 664
+De la calle 3
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  40.0
+Volumen acumulado  65.0
+Analizo la casa 648
+De la calle 3
+Tengo que entregar  2 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  42.0
+Volumen acumulado  65.0
+Analizo la casa 277
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  42.0
+Volumen acumulado  65.0
+Analizo la casa 396
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  42.0
+Volumen acumulado  65.0
+Analizo la casa 586
+De la calle 3
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  45.0
+Volumen acumulado  65.0
+Analizo la casa 208
+De la calle 1
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  45.0
+Volumen acumulado  65.0
+Analizo la casa 44
+De la calle 1
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  45.0
+Volumen acumulado  65.0
+Analizo la casa 298
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  45.0
+Volumen acumulado  65.0
+Analizo la casa 489
+De la calle 3
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  45.0
+Volumen acumulado  65.0
+Analizo la casa 437
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  45.0
+Volumen acumulado  65.0
+Analizo la casa 612
+De la calle 3
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  48.0
+Volumen acumulado  65.0
+Analizo la casa 27
+De la calle 1
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  48.0
+Volumen acumulado  65.0
+Analizo la casa 502
+De la calle 3
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  48.0
+Volumen acumulado  65.0
+Analizo la casa 150
+De la calle 1
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  51.0
+Volumen acumulado  65.0
+Analizo la casa 292
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  51.0
+Volumen acumulado  65.0
+Analizo la casa 152
+De la calle 1
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  54.0
+Volumen acumulado  65.0
+Analizo la casa 678
+De la calle 3
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  54.0
+Volumen acumulado  65.0
+Analizo la casa 76
+De la calle 1
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  57.0
+Volumen acumulado  65.0
+Analizo la casa 652
+De la calle 3
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  57.0
+Volumen acumulado  65.0
+Analizo la casa 135
+De la calle 1
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  60.0
+Volumen acumulado  65.0
+Analizo la casa 370
+De la calle 2
+Tengo que entregar  1 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  61.0
+Volumen acumulado  65.0
+Analizo la casa 251
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  61.0
+Volumen acumulado  65.0
+Analizo la casa 388
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  61.0
+Volumen acumulado  65.0
+Analizo la casa 53
+De la calle 1
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  61.0
+Volumen acumulado  65.0
+Analizo la casa 365
+De la calle 2
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  64.0
+Volumen acumulado  65.0
+Analizo la casa 609
+De la calle 3
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  1 paquetes en esta casa
+Me muevo
+Cartas acumuladas  67.0
+Volumen acumulado  77.0
+Analizo la casa 259
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  67.0
+Volumen acumulado  77.0
+Analizo la casa 307
+De la calle 2
+Tengo que entregar  1 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+===================CARTERO:VUELVO A LA OFICINA: FIN DE JORNADA=============================
+Cartas acumuladas  68.0
+Volumen acumulado  77.0
+Analizo la casa 561
+De la calle 3
+Tengo que entregar  2 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  70.0
+Volumen acumulado  77.0
+Analizo la casa 619
+De la calle 3
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  73.0
+Volumen acumulado  77.0
+Analizo la casa 680
+De la calle 3
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  73.0
+Volumen acumulado  77.0
+Analizo la casa 621
+De la calle 3
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  76.0
+Volumen acumulado  77.0
+Analizo la casa 246
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  76.0
+Volumen acumulado  77.0
+Analizo la casa 141
+De la calle 1
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  79.0
+Volumen acumulado  77.0
+Analizo la casa 7
+De la calle 1
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  79.0
+Volumen acumulado  77.0
+Analizo la casa 347
+De la calle 2
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  82.0
+Volumen acumulado  77.0
+Analizo la casa 695
+De la calle 3
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  82.0
+Volumen acumulado  77.0
+Analizo la casa 595
+De la calle 3
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  2 paquetes en esta casa
+Me muevo
+Cartas acumuladas  85.0
+Volumen acumulado  109.0
+Analizo la casa 218
+De la calle 1
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  85.0
+Volumen acumulado  109.0
+Analizo la casa 15
+De la calle 1
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  85.0
+Volumen acumulado  109.0
+Analizo la casa 190
+De la calle 1
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  85.0
+Volumen acumulado  109.0
+Analizo la casa 495
+De la calle 3
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  85.0
+Volumen acumulado  109.0
+Analizo la casa 404
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  85.0
+Volumen acumulado  109.0
+Analizo la casa 478
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  85.0
+Volumen acumulado  109.0
+Analizo la casa 434
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  85.0
+Volumen acumulado  109.0
+Analizo la casa 274
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  85.0
+Volumen acumulado  109.0
+Analizo la casa 498
+De la calle 3
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  85.0
+Volumen acumulado  109.0
+Analizo la casa 594
+De la calle 3
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  1 paquetes en esta casa
+Me muevo
+Cartas acumuladas  88.0
+Volumen acumulado  121.0
+Analizo la casa 123
+De la calle 1
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  2 paquetes en esta casa
+Me muevo
+Cartas acumuladas  91.0
+Volumen acumulado  153.0
+Analizo la casa 2
+De la calle 1
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  91.0
+Volumen acumulado  153.0
+Analizo la casa 576
+De la calle 3
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  94.0
+Volumen acumulado  153.0
+Analizo la casa 524
+De la calle 3
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  94.0
+Volumen acumulado  153.0
+Analizo la casa 273
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  94.0
+Volumen acumulado  153.0
+Analizo la casa 87
+De la calle 1
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  97.0
+Volumen acumulado  153.0
+Analizo la casa 328
+De la calle 2
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  100.0
+Volumen acumulado  153.0
+Analizo la casa 422
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  100.0
+Volumen acumulado  153.0
+Analizo la casa 390
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  100.0
+Volumen acumulado  153.0
+Analizo la casa 665
+De la calle 3
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  100.0
+Volumen acumulado  153.0
+Analizo la casa 603
+De la calle 3
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  3 paquetes en esta casa
+Me muevo
+Cartas acumuladas  103.0
+Volumen acumulado  218.0
+Analizo la casa 654
+De la calle 3
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  103.0
+Volumen acumulado  218.0
+Analizo la casa 620
+De la calle 3
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  106.0
+Volumen acumulado  218.0
+Analizo la casa 674
+De la calle 3
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  106.0
+Volumen acumulado  218.0
+Analizo la casa 38
+De la calle 1
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  106.0
+Volumen acumulado  218.0
+Analizo la casa 132
+De la calle 1
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+===================CARTERO:VUELVO A LA OFICINA: FIN DE JORNADA=============================
+===================CARTERO:VUELVO A LA OFICINA POR MAS CARTAS=============================
+Cartas acumuladas  2.0
+Volumen acumulado  0
+Analizo la casa 440
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  2.0
+Volumen acumulado  0
+Analizo la casa 18
+De la calle 1
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  2.0
+Volumen acumulado  0
+Analizo la casa 511
+De la calle 3
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  2.0
+Volumen acumulado  0
+Analizo la casa 248
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  2.0
+Volumen acumulado  0
+Analizo la casa 458
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  2.0
+Volumen acumulado  0
+Analizo la casa 407
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  2.0
+Volumen acumulado  0
+Analizo la casa 541
+De la calle 3
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  2.0
+Volumen acumulado  0
+Analizo la casa 593
+De la calle 3
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  1 paquetes en esta casa
+Me muevo
+Cartas acumuladas  5.0
+Volumen acumulado  12.0
+Analizo la casa 332
+De la calle 2
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  1 paquetes en esta casa
+Me muevo
+Cartas acumuladas  8.0
+Volumen acumulado  24.0
+Analizo la casa 329
+De la calle 2
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  11.0
+Volumen acumulado  24.0
+Analizo la casa 333
+De la calle 2
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  1 paquetes en esta casa
+Me muevo
+Cartas acumuladas  14.0
+Volumen acumulado  36.0
+Analizo la casa 17
+De la calle 1
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  14.0
+Volumen acumulado  36.0
+Analizo la casa 569
+De la calle 3
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  17.0
+Volumen acumulado  36.0
+Analizo la casa 230
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  17.0
+Volumen acumulado  36.0
+Analizo la casa 93
+De la calle 1
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  20.0
+Volumen acumulado  36.0
+Analizo la casa 405
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  20.0
+Volumen acumulado  36.0
+Analizo la casa 484
+De la calle 3
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  20.0
+Volumen acumulado  36.0
+Analizo la casa 19
+De la calle 1
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  20.0
+Volumen acumulado  36.0
+Analizo la casa 398
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  20.0
+Volumen acumulado  36.0
+Analizo la casa 666
+De la calle 3
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  20.0
+Volumen acumulado  36.0
+Analizo la casa 279
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  20.0
+Volumen acumulado  36.0
+Analizo la casa 536
+De la calle 3
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  20.0
+Volumen acumulado  36.0
+Analizo la casa 551
+De la calle 3
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  20.0
+Volumen acumulado  36.0
+Analizo la casa 245
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  20.0
+Volumen acumulado  36.0
+Analizo la casa 180
+De la calle 1
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  20.0
+Volumen acumulado  36.0
+Analizo la casa 627
+De la calle 3
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  23.0
+Volumen acumulado  36.0
+Analizo la casa 634
+De la calle 3
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  26.0
+Volumen acumulado  36.0
+Analizo la casa 481
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  26.0
+Volumen acumulado  36.0
+Analizo la casa 471
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  26.0
+Volumen acumulado  36.0
+Analizo la casa 415
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  26.0
+Volumen acumulado  36.0
+Analizo la casa 349
+De la calle 2
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  29.0
+Volumen acumulado  36.0
+Analizo la casa 238
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  29.0
+Volumen acumulado  36.0
+Analizo la casa 639
+De la calle 3
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  32.0
+Volumen acumulado  36.0
+Analizo la casa 573
+De la calle 3
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  35.0
+Volumen acumulado  36.0
+Analizo la casa 301
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  35.0
+Volumen acumulado  36.0
+Analizo la casa 312
+De la calle 2
+Tengo que entregar  2 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  37.0
+Volumen acumulado  36.0
+Analizo la casa 137
+De la calle 1
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+===================CARTERO:VUELVO A LA OFICINA: FIN DE JORNADA=============================
+Cartas acumuladas  40.0
+Volumen acumulado  36.0
+Analizo la casa 300
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  40.0
+Volumen acumulado  36.0
+Analizo la casa 606
+De la calle 3
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  2 paquetes en esta casa
+Me muevo
+Cartas acumuladas  43.0
+Volumen acumulado  68.0
+Analizo la casa 596
+De la calle 3
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  3 paquetes en esta casa
+Me muevo
+Cartas acumuladas  46.0
+Volumen acumulado  133.0
+Analizo la casa 91
+De la calle 1
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  49.0
+Volumen acumulado  133.0
+Analizo la casa 142
+De la calle 1
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  52.0
+Volumen acumulado  133.0
+Analizo la casa 36
+De la calle 1
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  52.0
+Volumen acumulado  133.0
+Analizo la casa 295
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  52.0
+Volumen acumulado  133.0
+Analizo la casa 109
+De la calle 1
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  2 paquetes en esta casa
+Me muevo
+Cartas acumuladas  55.0
+Volumen acumulado  178.0
+Analizo la casa 249
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  55.0
+Volumen acumulado  178.0
+Analizo la casa 58
+De la calle 1
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  55.0
+Volumen acumulado  178.0
+Analizo la casa 554
+De la calle 3
+Tengo que entregar  2 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  57.0
+Volumen acumulado  178.0
+Analizo la casa 139
+De la calle 1
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  60.0
+Volumen acumulado  178.0
+Analizo la casa 446
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  60.0
+Volumen acumulado  178.0
+Analizo la casa 614
+De la calle 3
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  63.0
+Volumen acumulado  178.0
+Analizo la casa 243
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  63.0
+Volumen acumulado  178.0
+Analizo la casa 344
+De la calle 2
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  1 paquetes en esta casa
+Me muevo
+Cartas acumuladas  66.0
+Volumen acumulado  190.0
+Analizo la casa 62
+De la calle 1
+Tengo que entregar  1 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  67.0
+Volumen acumulado  190.0
+Analizo la casa 505
+De la calle 3
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  67.0
+Volumen acumulado  190.0
+Analizo la casa 302
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  67.0
+Volumen acumulado  190.0
+Analizo la casa 61
+De la calle 1
+Tengo que entregar  1 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  68.0
+Volumen acumulado  190.0
+Analizo la casa 393
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  68.0
+Volumen acumulado  190.0
+Analizo la casa 159
+De la calle 1
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  71.0
+Volumen acumulado  190.0
+Analizo la casa 381
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  71.0
+Volumen acumulado  190.0
+Analizo la casa 101
+De la calle 1
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  74.0
+Volumen acumulado  190.0
+Analizo la casa 164
+De la calle 1
+Tengo que entregar  2 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  76.0
+Volumen acumulado  190.0
+Analizo la casa 286
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  76.0
+Volumen acumulado  190.0
+Analizo la casa 29
+De la calle 1
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  76.0
+Volumen acumulado  190.0
+Analizo la casa 469
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  76.0
+Volumen acumulado  190.0
+Analizo la casa 656
+De la calle 3
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  76.0
+Volumen acumulado  190.0
+Analizo la casa 268
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  76.0
+Volumen acumulado  190.0
+Analizo la casa 32
+De la calle 1
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  76.0
+Volumen acumulado  190.0
+Analizo la casa 400
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  76.0
+Volumen acumulado  190.0
+Analizo la casa 255
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  76.0
+Volumen acumulado  190.0
+Analizo la casa 600
+De la calle 3
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  3 paquetes en esta casa
+Me muevo
+Cartas acumuladas  79.0
+Volumen acumulado  255.0
+Analizo la casa 369
+De la calle 2
+Tengo que entregar  1 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+===================CARTERO:VUELVO A LA OFICINA: FIN DE JORNADA=============================
+Cartas acumuladas  80.0
+Volumen acumulado  255.0
+Analizo la casa 16
+De la calle 1
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  80.0
+Volumen acumulado  255.0
+Analizo la casa 376
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  80.0
+Volumen acumulado  255.0
+Analizo la casa 645
+De la calle 3
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  83.0
+Volumen acumulado  255.0
+Analizo la casa 35
+De la calle 1
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  83.0
+Volumen acumulado  255.0
+Analizo la casa 339
+De la calle 2
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  3 paquetes en esta casa
+Me muevo
+Cartas acumuladas  86.0
+Volumen acumulado  320.0
+Analizo la casa 685
+De la calle 3
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  86.0
+Volumen acumulado  320.0
+Analizo la casa 10
+De la calle 1
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  86.0
+Volumen acumulado  320.0
+Analizo la casa 73
+De la calle 1
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  89.0
+Volumen acumulado  320.0
+Analizo la casa 185
+De la calle 1
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  89.0
+Volumen acumulado  320.0
+Analizo la casa 452
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  89.0
+Volumen acumulado  320.0
+Analizo la casa 660
+De la calle 3
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  89.0
+Volumen acumulado  320.0
+Analizo la casa 34
+De la calle 1
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  89.0
+Volumen acumulado  320.0
+Analizo la casa 539
+De la calle 3
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  89.0
+Volumen acumulado  320.0
+Analizo la casa 210
+De la calle 1
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  89.0
+Volumen acumulado  320.0
+Analizo la casa 266
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  89.0
+Volumen acumulado  320.0
+Analizo la casa 219
+De la calle 1
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  89.0
+Volumen acumulado  320.0
+Analizo la casa 605
+De la calle 3
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  2 paquetes en esta casa
+Me muevo
+Cartas acumuladas  92.0
+Volumen acumulado  352.0
+Analizo la casa 486
+De la calle 3
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  92.0
+Volumen acumulado  352.0
+Analizo la casa 126
+De la calle 1
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  1 paquetes en esta casa
+Me muevo
+Cartas acumuladas  95.0
+Volumen acumulado  364.0
+Analizo la casa 577
+De la calle 3
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  98.0
+Volumen acumulado  364.0
+Analizo la casa 287
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  98.0
+Volumen acumulado  364.0
+Analizo la casa 565
+De la calle 3
+Tengo que entregar  2 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  100.0
+Volumen acumulado  364.0
+Analizo la casa 476
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  100.0
+Volumen acumulado  364.0
+Analizo la casa 625
+De la calle 3
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  103.0
+Volumen acumulado  364.0
+Analizo la casa 613
+De la calle 3
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  106.0
+Volumen acumulado  364.0
+Analizo la casa 525
+De la calle 3
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  106.0
+Volumen acumulado  364.0
+Analizo la casa 134
+De la calle 1
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+===================CARTERO:VUELVO A LA OFICINA POR MAS CARTAS=============================
+Cartas acumuladas  2.0
+Volumen acumulado  0
+Analizo la casa 375
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  2.0
+Volumen acumulado  0
+Analizo la casa 438
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  2.0
+Volumen acumulado  0
+Analizo la casa 343
+De la calle 2
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  2 paquetes en esta casa
+Me muevo
+Cartas acumuladas  5.0
+Volumen acumulado  32.0
+Analizo la casa 161
+De la calle 1
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+===================CARTERO:VUELVO A LA OFICINA: FIN DE JORNADA=============================
+Cartas acumuladas  8.0
+Volumen acumulado  32.0
+Analizo la casa 69
+De la calle 1
+Tengo que entregar  2 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  10.0
+Volumen acumulado  32.0
+Analizo la casa 294
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  10.0
+Volumen acumulado  32.0
+Analizo la casa 186
+De la calle 1
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  10.0
+Volumen acumulado  32.0
+Analizo la casa 496
+De la calle 3
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  10.0
+Volumen acumulado  32.0
+Analizo la casa 281
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  10.0
+Volumen acumulado  32.0
+Analizo la casa 457
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  10.0
+Volumen acumulado  32.0
+Analizo la casa 206
+De la calle 1
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  10.0
+Volumen acumulado  32.0
+Analizo la casa 239
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  10.0
+Volumen acumulado  32.0
+Analizo la casa 280
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  10.0
+Volumen acumulado  32.0
+Analizo la casa 117
+De la calle 1
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  3 paquetes en esta casa
+Me muevo
+Cartas acumuladas  13.0
+Volumen acumulado  97.0
+Analizo la casa 673
+De la calle 3
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  13.0
+Volumen acumulado  97.0
+Analizo la casa 688
+De la calle 3
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  13.0
+Volumen acumulado  97.0
+Analizo la casa 448
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  13.0
+Volumen acumulado  97.0
+Analizo la casa 47
+De la calle 1
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  13.0
+Volumen acumulado  97.0
+Analizo la casa 571
+De la calle 3
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  16.0
+Volumen acumulado  97.0
+Analizo la casa 136
+De la calle 1
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  19.0
+Volumen acumulado  97.0
+Analizo la casa 25
+De la calle 1
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  19.0
+Volumen acumulado  97.0
+Analizo la casa 112
+De la calle 1
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  3 paquetes en esta casa
+Me muevo
+Cartas acumuladas  22.0
+Volumen acumulado  162.0
+Analizo la casa 88
+De la calle 1
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  25.0
+Volumen acumulado  162.0
+Analizo la casa 526
+De la calle 3
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  25.0
+Volumen acumulado  162.0
+Analizo la casa 662
+De la calle 3
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  25.0
+Volumen acumulado  162.0
+Analizo la casa 94
+De la calle 1
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  28.0
+Volumen acumulado  162.0
+Analizo la casa 585
+De la calle 3
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  31.0
+Volumen acumulado  162.0
+Analizo la casa 542
+De la calle 3
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  31.0
+Volumen acumulado  162.0
+Analizo la casa 623
+De la calle 3
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  34.0
+Volumen acumulado  162.0
+Analizo la casa 455
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  34.0
+Volumen acumulado  162.0
+Analizo la casa 463
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  34.0
+Volumen acumulado  162.0
+Analizo la casa 128
+De la calle 1
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  1 paquetes en esta casa
+Me muevo
+Cartas acumuladas  37.0
+Volumen acumulado  174.0
+Analizo la casa 28
+De la calle 1
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  37.0
+Volumen acumulado  174.0
+Analizo la casa 175
+De la calle 1
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  37.0
+Volumen acumulado  174.0
+Analizo la casa 449
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  37.0
+Volumen acumulado  174.0
+Analizo la casa 697
+De la calle 3
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  37.0
+Volumen acumulado  174.0
+Analizo la casa 147
+De la calle 1
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  40.0
+Volumen acumulado  174.0
+Analizo la casa 475
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  40.0
+Volumen acumulado  174.0
+Analizo la casa 95
+De la calle 1
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  43.0
+Volumen acumulado  174.0
+Analizo la casa 92
+De la calle 1
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  46.0
+Volumen acumulado  174.0
+Analizo la casa 113
+De la calle 1
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  3 paquetes en esta casa
+Me muevo
+Cartas acumuladas  49.0
+Volumen acumulado  239.0
+Analizo la casa 120
+De la calle 1
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  2 paquetes en esta casa
+Me muevo
+Cartas acumuladas  52.0
+Volumen acumulado  271.0
+Analizo la casa 170
+De la calle 1
+Tengo que entregar  2 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  54.0
+Volumen acumulado  271.0
+Analizo la casa 115
+De la calle 1
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  3 paquetes en esta casa
+Me muevo
+Cartas acumuladas  57.0
+Volumen acumulado  336.0
+Analizo la casa 640
+De la calle 3
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+===================CARTERO:VUELVO A LA OFICINA: FIN DE JORNADA=============================
+Cartas acumuladas  60.0
+Volumen acumulado  336.0
+Analizo la casa 617
+De la calle 3
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  63.0
+Volumen acumulado  336.0
+Analizo la casa 252
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  63.0
+Volumen acumulado  336.0
+Analizo la casa 250
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  63.0
+Volumen acumulado  336.0
+Analizo la casa 387
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  63.0
+Volumen acumulado  336.0
+Analizo la casa 253
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  63.0
+Volumen acumulado  336.0
+Analizo la casa 55
+De la calle 1
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  63.0
+Volumen acumulado  336.0
+Analizo la casa 198
+De la calle 1
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  63.0
+Volumen acumulado  336.0
+Analizo la casa 203
+De la calle 1
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  63.0
+Volumen acumulado  336.0
+Analizo la casa 289
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  63.0
+Volumen acumulado  336.0
+Analizo la casa 311
+De la calle 2
+Tengo que entregar  2 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  65.0
+Volumen acumulado  336.0
+Analizo la casa 528
+De la calle 3
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  65.0
+Volumen acumulado  336.0
+Analizo la casa 383
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  65.0
+Volumen acumulado  336.0
+Analizo la casa 361
+De la calle 2
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  68.0
+Volumen acumulado  336.0
+Analizo la casa 663
+De la calle 3
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  68.0
+Volumen acumulado  336.0
+Analizo la casa 618
+De la calle 3
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  71.0
+Volumen acumulado  336.0
+Analizo la casa 354
+De la calle 2
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  74.0
+Volumen acumulado  336.0
+Analizo la casa 372
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  74.0
+Volumen acumulado  336.0
+Analizo la casa 597
+De la calle 3
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  3 paquetes en esta casa
+Me muevo
+===================CARTERO :VUELVO A LA OFICINA POR MAS PAQUETES=============================
+Cartas acumuladas  0
+Volumen acumulado  36.0
+Analizo la casa 384
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  0
+Volumen acumulado  36.0
+Analizo la casa 391
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  0
+Volumen acumulado  36.0
+Analizo la casa 217
+De la calle 1
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  0
+Volumen acumulado  36.0
+Analizo la casa 624
+De la calle 3
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  3
+Volumen acumulado  36.0
+Analizo la casa 165
+De la calle 1
+Tengo que entregar  2 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  5
+Volumen acumulado  36.0
+Analizo la casa 168
+De la calle 1
+Tengo que entregar  2 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  7
+Volumen acumulado  36.0
+Analizo la casa 399
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  7
+Volumen acumulado  36.0
+Analizo la casa 371
+De la calle 2
+Tengo que entregar  1 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  8
+Volumen acumulado  36.0
+Analizo la casa 590
+De la calle 3
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  1 paquetes en esta casa
+Me muevo
+Cartas acumuladas  11
+Volumen acumulado  48.0
+Analizo la casa 520
+De la calle 3
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  11
+Volumen acumulado  48.0
+Analizo la casa 408
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  11
+Volumen acumulado  48.0
+Analizo la casa 304
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  11
+Volumen acumulado  48.0
+Analizo la casa 308
+De la calle 2
+Tengo que entregar  2 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  13
+Volumen acumulado  48.0
+Analizo la casa 507
+De la calle 3
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  13
+Volumen acumulado  48.0
+Analizo la casa 385
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  13
+Volumen acumulado  48.0
+Analizo la casa 237
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  13
+Volumen acumulado  48.0
+Analizo la casa 642
+De la calle 3
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  16
+Volumen acumulado  48.0
+Analizo la casa 414
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  16
+Volumen acumulado  48.0
+Analizo la casa 406
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  16
+Volumen acumulado  48.0
+Analizo la casa 116
+De la calle 1
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  3 paquetes en esta casa
+Me muevo
+===================CARTERO:VUELVO A LA OFICINA: FIN DE JORNADA=============================
+Cartas acumuladas  19
+Volumen acumulado  113.0
+Analizo la casa 162
+De la calle 1
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  22
+Volumen acumulado  113.0
+Analizo la casa 322
+De la calle 2
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  25
+Volumen acumulado  113.0
+Analizo la casa 288
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  25
+Volumen acumulado  113.0
+Analizo la casa 686
+De la calle 3
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  25
+Volumen acumulado  113.0
+Analizo la casa 131
+De la calle 1
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  28
+Volumen acumulado  113.0
+Analizo la casa 684
+De la calle 3
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  28
+Volumen acumulado  113.0
+Analizo la casa 144
+De la calle 1
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  31
+Volumen acumulado  113.0
+Analizo la casa 412
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  31
+Volumen acumulado  113.0
+Analizo la casa 264
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  31
+Volumen acumulado  113.0
+Analizo la casa 192
+De la calle 1
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  31
+Volumen acumulado  113.0
+Analizo la casa 460
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  31
+Volumen acumulado  113.0
+Analizo la casa 146
+De la calle 1
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  34
+Volumen acumulado  113.0
+Analizo la casa 50
+De la calle 1
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  34
+Volumen acumulado  113.0
+Analizo la casa 646
+De la calle 3
+Tengo que entregar  2 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  36
+Volumen acumulado  113.0
+Analizo la casa 5
+De la calle 1
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  36
+Volumen acumulado  113.0
+Analizo la casa 336
+De la calle 2
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  2 paquetes en esta casa
+Me muevo
+Cartas acumuladas  39
+Volumen acumulado  145.0
+Analizo la casa 293
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  39
+Volumen acumulado  145.0
+Analizo la casa 429
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  39
+Volumen acumulado  145.0
+Analizo la casa 661
+De la calle 3
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  39
+Volumen acumulado  145.0
+Analizo la casa 691
+De la calle 3
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  39
+Volumen acumulado  145.0
+Analizo la casa 499
+De la calle 3
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  39
+Volumen acumulado  145.0
+Analizo la casa 510
+De la calle 3
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  39
+Volumen acumulado  145.0
+Analizo la casa 49
+De la calle 1
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  39
+Volumen acumulado  145.0
+Analizo la casa 358
+De la calle 2
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  42
+Volumen acumulado  145.0
+Analizo la casa 439
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  42
+Volumen acumulado  145.0
+Analizo la casa 466
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  42
+Volumen acumulado  145.0
+Analizo la casa 532
+De la calle 3
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  42
+Volumen acumulado  145.0
+Analizo la casa 81
+De la calle 1
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  45
+Volumen acumulado  145.0
+Analizo la casa 262
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  45
+Volumen acumulado  145.0
+Analizo la casa 538
+De la calle 3
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  45
+Volumen acumulado  145.0
+Analizo la casa 698
+De la calle 3
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  45
+Volumen acumulado  145.0
+Analizo la casa 657
+De la calle 3
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  45
+Volumen acumulado  145.0
+Analizo la casa 628
+De la calle 3
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  48
+Volumen acumulado  145.0
+Analizo la casa 386
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  48
+Volumen acumulado  145.0
+Analizo la casa 492
+De la calle 3
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  48
+Volumen acumulado  145.0
+Analizo la casa 670
+De la calle 3
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  48
+Volumen acumulado  145.0
+Analizo la casa 209
+De la calle 1
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  48
+Volumen acumulado  145.0
+Analizo la casa 317
+De la calle 2
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  51
+Volumen acumulado  145.0
+Analizo la casa 229
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  51
+Volumen acumulado  145.0
+Analizo la casa 202
+De la calle 1
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  51
+Volumen acumulado  145.0
+Analizo la casa 378
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  51
+Volumen acumulado  145.0
+Analizo la casa 90
+De la calle 1
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  54
+Volumen acumulado  145.0
+Analizo la casa 315
+De la calle 2
+Tengo que entregar  2 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  56
+Volumen acumulado  145.0
+Analizo la casa 508
+De la calle 3
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  56
+Volumen acumulado  145.0
+Analizo la casa 254
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  56
+Volumen acumulado  145.0
+Analizo la casa 318
+De la calle 2
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  59
+Volumen acumulado  145.0
+Analizo la casa 574
+De la calle 3
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+===================CARTERO:VUELVO A LA OFICINA: FIN DE JORNADA=============================
+Cartas acumuladas  62
+Volumen acumulado  145.0
+Analizo la casa 42
+De la calle 1
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  62
+Volumen acumulado  145.0
+Analizo la casa 263
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  62
+Volumen acumulado  145.0
+Analizo la casa 99
+De la calle 1
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  65
+Volumen acumulado  145.0
+Analizo la casa 392
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  65
+Volumen acumulado  145.0
+Analizo la casa 514
+De la calle 3
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  65
+Volumen acumulado  145.0
+Analizo la casa 667
+De la calle 3
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  65
+Volumen acumulado  145.0
+Analizo la casa 331
+De la calle 2
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  68
+Volumen acumulado  145.0
+Analizo la casa 578
+De la calle 3
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  71
+Volumen acumulado  145.0
+Analizo la casa 269
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  71
+Volumen acumulado  145.0
+Analizo la casa 447
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  71
+Volumen acumulado  145.0
+Analizo la casa 232
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  71
+Volumen acumulado  145.0
+Analizo la casa 395
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  71
+Volumen acumulado  145.0
+Analizo la casa 114
+De la calle 1
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  3 paquetes en esta casa
+Me muevo
+Cartas acumuladas  74
+Volumen acumulado  210.0
+Analizo la casa 282
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  74
+Volumen acumulado  210.0
+Analizo la casa 497
+De la calle 3
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  74
+Volumen acumulado  210.0
+Analizo la casa 316
+De la calle 2
+Tengo que entregar  2 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  76
+Volumen acumulado  210.0
+Analizo la casa 442
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  76
+Volumen acumulado  210.0
+Analizo la casa 276
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  76
+Volumen acumulado  210.0
+Analizo la casa 427
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  76
+Volumen acumulado  210.0
+Analizo la casa 363
+De la calle 2
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  79
+Volumen acumulado  210.0
+Analizo la casa 223
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  79
+Volumen acumulado  210.0
+Analizo la casa 234
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  79
+Volumen acumulado  210.0
+Analizo la casa 63
+De la calle 1
+Tengo que entregar  2 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  81
+Volumen acumulado  210.0
+Analizo la casa 151
+De la calle 1
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  84
+Volumen acumulado  210.0
+Analizo la casa 651
+De la calle 3
+Tengo que entregar  1 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  85
+Volumen acumulado  210.0
+Analizo la casa 622
+De la calle 3
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  88
+Volumen acumulado  210.0
+Analizo la casa 127
+De la calle 1
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  1 paquetes en esta casa
+Me muevo
+Cartas acumuladas  91
+Volumen acumulado  222.0
+Analizo la casa 290
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  91
+Volumen acumulado  222.0
+Analizo la casa 587
+De la calle 3
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  94
+Volumen acumulado  222.0
+Analizo la casa 364
+De la calle 2
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  97
+Volumen acumulado  222.0
+Analizo la casa 562
+De la calle 3
+Tengo que entregar  2 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+===================CARTERO:VUELVO A LA OFICINA: FIN DE JORNADA=============================
+Cartas acumuladas  99
+Volumen acumulado  222.0
+Analizo la casa 669
+De la calle 3
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  99
+Volumen acumulado  222.0
+Analizo la casa 80
+De la calle 1
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  102
+Volumen acumulado  222.0
+Analizo la casa 257
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  102
+Volumen acumulado  222.0
+Analizo la casa 402
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  102
+Volumen acumulado  222.0
+Analizo la casa 445
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  102
+Volumen acumulado  222.0
+Analizo la casa 326
+De la calle 2
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  105
+Volumen acumulado  222.0
+Analizo la casa 671
+De la calle 3
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  105
+Volumen acumulado  222.0
+Analizo la casa 527
+De la calle 3
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  105
+Volumen acumulado  222.0
+Analizo la casa 477
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  105
+Volumen acumulado  222.0
+Analizo la casa 67
+De la calle 1
+Tengo que entregar  2 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+===================CARTERO:VUELVO A LA OFICINA POR MAS CARTAS=============================
+Cartas acumuladas  0.0
+Volumen acumulado  0
+Analizo la casa 24
+De la calle 1
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  0.0
+Volumen acumulado  0
+Analizo la casa 285
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  0.0
+Volumen acumulado  0
+Analizo la casa 173
+De la calle 1
+Tengo que entregar  1 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  1.0
+Volumen acumulado  0.0
+Analizo la casa 512
+De la calle 3
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  1.0
+Volumen acumulado  0.0
+Analizo la casa 291
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  1.0
+Volumen acumulado  0.0
+Analizo la casa 451
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  1.0
+Volumen acumulado  0.0
+Analizo la casa 389
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  1.0
+Volumen acumulado  0.0
+Analizo la casa 589
+De la calle 3
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  4.0
+Volumen acumulado  0.0
+Analizo la casa 534
+De la calle 3
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  4.0
+Volumen acumulado  0.0
+Analizo la casa 324
+De la calle 2
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  7.0
+Volumen acumulado  0.0
+Analizo la casa 490
+De la calle 3
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  7.0
+Volumen acumulado  0.0
+Analizo la casa 696
+De la calle 3
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  7.0
+Volumen acumulado  0.0
+Analizo la casa 261
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  7.0
+Volumen acumulado  0.0
+Analizo la casa 12
+De la calle 1
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  7.0
+Volumen acumulado  0.0
+Analizo la casa 45
+De la calle 1
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  7.0
+Volumen acumulado  0.0
+Analizo la casa 171
+De la calle 1
+Tengo que entregar  2 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  9.0
+Volumen acumulado  0.0
+Analizo la casa 675
+De la calle 3
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  9.0
+Volumen acumulado  0.0
+Analizo la casa 177
+De la calle 1
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  9.0
+Volumen acumulado  0.0
+Analizo la casa 57
+De la calle 1
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  9.0
+Volumen acumulado  0.0
+Analizo la casa 77
+De la calle 1
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  12.0
+Volumen acumulado  0.0
+Analizo la casa 125
+De la calle 1
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  1 paquetes en esta casa
+Me muevo
+Cartas acumuladas  15.0
+Volumen acumulado  12.0
+Analizo la casa 183
+De la calle 1
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  15.0
+Volumen acumulado  12.0
+Analizo la casa 537
+De la calle 3
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  15.0
+Volumen acumulado  12.0
+Analizo la casa 174
+De la calle 1
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  15.0
+Volumen acumulado  12.0
+Analizo la casa 467
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  15.0
+Volumen acumulado  12.0
+Analizo la casa 334
+De la calle 2
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  1 paquetes en esta casa
+Me muevo
+Cartas acumuladas  18.0
+Volumen acumulado  24.0
+Analizo la casa 41
+De la calle 1
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  18.0
+Volumen acumulado  24.0
+Analizo la casa 548
+De la calle 3
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  18.0
+Volumen acumulado  24.0
+Analizo la casa 184
+De la calle 1
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  18.0
+Volumen acumulado  24.0
+Analizo la casa 647
+De la calle 3
+Tengo que entregar  2 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  20.0
+Volumen acumulado  24.0
+Analizo la casa 513
+De la calle 3
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  20.0
+Volumen acumulado  24.0
+Analizo la casa 74
+De la calle 1
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  23.0
+Volumen acumulado  24.0
+Analizo la casa 529
+De la calle 3
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  23.0
+Volumen acumulado  24.0
+Analizo la casa 382
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  23.0
+Volumen acumulado  24.0
+Analizo la casa 550
+De la calle 3
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  23.0
+Volumen acumulado  24.0
+Analizo la casa 374
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  23.0
+Volumen acumulado  24.0
+Analizo la casa 124
+De la calle 1
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  2 paquetes en esta casa
+Me muevo
+Cartas acumuladas  26.0
+Volumen acumulado  56.0
+Analizo la casa 337
+De la calle 2
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  3 paquetes en esta casa
+Me muevo
+===================CARTERO:VUELVO A LA OFICINA: FIN DE JORNADA=============================
+Cartas acumuladas  29.0
+Volumen acumulado  121.0
+Analizo la casa 187
+De la calle 1
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  29.0
+Volumen acumulado  121.0
+Analizo la casa 483
+De la calle 3
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  29.0
+Volumen acumulado  121.0
+Analizo la casa 493
+De la calle 3
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  29.0
+Volumen acumulado  121.0
+Analizo la casa 176
+De la calle 1
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  29.0
+Volumen acumulado  121.0
+Analizo la casa 653
+De la calle 3
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  29.0
+Volumen acumulado  121.0
+Analizo la casa 299
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  29.0
+Volumen acumulado  121.0
+Analizo la casa 430
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  29.0
+Volumen acumulado  121.0
+Analizo la casa 225
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  29.0
+Volumen acumulado  121.0
+Analizo la casa 694
+De la calle 3
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  29.0
+Volumen acumulado  121.0
+Analizo la casa 271
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  29.0
+Volumen acumulado  121.0
+Analizo la casa 521
+De la calle 3
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  29.0
+Volumen acumulado  121.0
+Analizo la casa 672
+De la calle 3
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  29.0
+Volumen acumulado  121.0
+Analizo la casa 106
+De la calle 1
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  1 paquetes en esta casa
+Me muevo
+Cartas acumuladas  32.0
+Volumen acumulado  133.0
+Analizo la casa 79
+De la calle 1
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  35.0
+Volumen acumulado  133.0
+Analizo la casa 107
+De la calle 1
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  1 paquetes en esta casa
+Me muevo
+Cartas acumuladas  38.0
+Volumen acumulado  145.0
+Analizo la casa 189
+De la calle 1
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  38.0
+Volumen acumulado  145.0
+Analizo la casa 9
+De la calle 1
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  38.0
+Volumen acumulado  145.0
+Analizo la casa 33
+De la calle 1
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  38.0
+Volumen acumulado  145.0
+Analizo la casa 39
+De la calle 1
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  38.0
+Volumen acumulado  145.0
+Analizo la casa 350
+De la calle 2
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  41.0
+Volumen acumulado  145.0
+Analizo la casa 607
+De la calle 3
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  2 paquetes en esta casa
+Me muevo
+Cartas acumuladas  44.0
+Volumen acumulado  177.0
+Analizo la casa 689
+De la calle 3
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  44.0
+Volumen acumulado  177.0
+Analizo la casa 611
+De la calle 3
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  1 paquetes en esta casa
+Me muevo
+Cartas acumuladas  47.0
+Volumen acumulado  189.0
+Analizo la casa 166
+De la calle 1
+Tengo que entregar  2 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  49.0
+Volumen acumulado  189.0
+Analizo la casa 592
+De la calle 3
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  1 paquetes en esta casa
+Me muevo
+Cartas acumuladas  52.0
+Volumen acumulado  201.0
+Analizo la casa 43
+De la calle 1
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  52.0
+Volumen acumulado  201.0
+Analizo la casa 572
+De la calle 3
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  55.0
+Volumen acumulado  201.0
+Analizo la casa 472
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  55.0
+Volumen acumulado  201.0
+Analizo la casa 423
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  55.0
+Volumen acumulado  201.0
+Analizo la casa 70
+De la calle 1
+Tengo que entregar  2 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  57.0
+Volumen acumulado  201.0
+Analizo la casa 506
+De la calle 3
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  57.0
+Volumen acumulado  201.0
+Analizo la casa 465
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  57.0
+Volumen acumulado  201.0
+Analizo la casa 179
+De la calle 1
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  57.0
+Volumen acumulado  201.0
+Analizo la casa 631
+De la calle 3
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  60.0
+Volumen acumulado  201.0
+Analizo la casa 470
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  60.0
+Volumen acumulado  201.0
+Analizo la casa 692
+De la calle 3
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  60.0
+Volumen acumulado  201.0
+Analizo la casa 84
+De la calle 1
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  63.0
+Volumen acumulado  201.0
+Analizo la casa 588
+De la calle 3
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  66.0
+Volumen acumulado  201.0
+Analizo la casa 368
+De la calle 2
+Tengo que entregar  1 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+===================CARTERO:VUELVO A LA OFICINA: FIN DE JORNADA=============================
+Cartas acumuladas  67.0
+Volumen acumulado  201.0
+Analizo la casa 517
+De la calle 3
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  67.0
+Volumen acumulado  201.0
+Analizo la casa 78
+De la calle 1
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  70.0
+Volumen acumulado  201.0
+Analizo la casa 409
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  70.0
+Volumen acumulado  201.0
+Analizo la casa 377
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  70.0
+Volumen acumulado  201.0
+Analizo la casa 435
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  70.0
+Volumen acumulado  201.0
+Analizo la casa 59
+De la calle 1
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  70.0
+Volumen acumulado  201.0
+Analizo la casa 133
+De la calle 1
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  73.0
+Volumen acumulado  201.0
+Analizo la casa 341
+De la calle 2
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  3 paquetes en esta casa
+Me muevo
+Cartas acumuladas  76.0
+Volumen acumulado  266.0
+Analizo la casa 557
+De la calle 3
+Tengo que entregar  2 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  78.0
+Volumen acumulado  266.0
+Analizo la casa 633
+De la calle 3
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  81.0
+Volumen acumulado  266.0
+Analizo la casa 23
+De la calle 1
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  81.0
+Volumen acumulado  266.0
+Analizo la casa 160
+De la calle 1
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  84.0
+Volumen acumulado  266.0
+Analizo la casa 21
+De la calle 1
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  84.0
+Volumen acumulado  266.0
+Analizo la casa 345
+De la calle 2
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  1 paquetes en esta casa
+Me muevo
+Cartas acumuladas  87.0
+Volumen acumulado  278.0
+Analizo la casa 643
+De la calle 3
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  90.0
+Volumen acumulado  278.0
+Analizo la casa 500
+De la calle 3
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  90.0
+Volumen acumulado  278.0
+Analizo la casa 215
+De la calle 1
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  90.0
+Volumen acumulado  278.0
+Analizo la casa 118
+De la calle 1
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  3 paquetes en esta casa
+Me muevo
+Cartas acumuladas  93.0
+Volumen acumulado  343.0
+Analizo la casa 103
+De la calle 1
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  96.0
+Volumen acumulado  343.0
+Analizo la casa 432
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  96.0
+Volumen acumulado  343.0
+Analizo la casa 214
+De la calle 1
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  96.0
+Volumen acumulado  343.0
+Analizo la casa 523
+De la calle 3
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  96.0
+Volumen acumulado  343.0
+Analizo la casa 327
+De la calle 2
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  99.0
+Volumen acumulado  343.0
+Analizo la casa 172
+De la calle 1
+Tengo que entregar  2 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  101.0
+Volumen acumulado  343.0
+Analizo la casa 591
+De la calle 3
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  1 paquetes en esta casa
+Me muevo
+===================CARTERO:VUELVO A LA OFICINA: FIN DE JORNADA=============================
+Cartas acumuladas  104.0
+Volumen acumulado  355.0
+Analizo la casa 178
+De la calle 1
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  104.0
+Volumen acumulado  355.0
+Analizo la casa 630
+De la calle 3
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+===================CARTERO:VUELVO A LA OFICINA POR MAS CARTAS=============================
+Cartas acumuladas  0.0
+Volumen acumulado  0
+Analizo la casa 340
+De la calle 2
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  3 paquetes en esta casa
+Me muevo
+Cartas acumuladas  3.0
+Volumen acumulado  65.0
+Analizo la casa 104
+De la calle 1
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  6.0
+Volumen acumulado  65.0
+Analizo la casa 355
+De la calle 2
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  9.0
+Volumen acumulado  65.0
+Analizo la casa 546
+De la calle 3
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  9.0
+Volumen acumulado  65.0
+Analizo la casa 309
+De la calle 2
+Tengo que entregar  2 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  11.0
+Volumen acumulado  65.0
+Analizo la casa 401
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  11.0
+Volumen acumulado  65.0
+Analizo la casa 403
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  11.0
+Volumen acumulado  65.0
+Analizo la casa 212
+De la calle 1
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  11.0
+Volumen acumulado  65.0
+Analizo la casa 265
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  11.0
+Volumen acumulado  65.0
+Analizo la casa 555
+De la calle 3
+Tengo que entregar  2 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  13.0
+Volumen acumulado  65.0
+Analizo la casa 461
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  13.0
+Volumen acumulado  65.0
+Analizo la casa 54
+De la calle 1
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  13.0
+Volumen acumulado  65.0
+Analizo la casa 3
+De la calle 1
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  13.0
+Volumen acumulado  65.0
+Analizo la casa 602
+De la calle 3
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  3 paquetes en esta casa
+Me muevo
+Cartas acumuladas  16.0
+Volumen acumulado  130.0
+Analizo la casa 314
+De la calle 2
+Tengo que entregar  2 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  18.0
+Volumen acumulado  130.0
+Analizo la casa 148
+De la calle 1
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  21.0
+Volumen acumulado  130.0
+Analizo la casa 426
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  21.0
+Volumen acumulado  130.0
+Analizo la casa 436
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  21.0
+Volumen acumulado  130.0
+Analizo la casa 235
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  21.0
+Volumen acumulado  130.0
+Analizo la casa 167
+De la calle 1
+Tengo que entregar  2 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  23.0
+Volumen acumulado  130.0
+Analizo la casa 504
+De la calle 3
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  23.0
+Volumen acumulado  130.0
+Analizo la casa 367
+De la calle 2
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  26.0
+Volumen acumulado  130.0
+Analizo la casa 676
+De la calle 3
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  26.0
+Volumen acumulado  130.0
+Analizo la casa 417
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  26.0
+Volumen acumulado  130.0
+Analizo la casa 4
+De la calle 1
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  26.0
+Volumen acumulado  130.0
+Analizo la casa 207
+De la calle 1
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  26.0
+Volumen acumulado  130.0
+Analizo la casa 453
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  26.0
+Volumen acumulado  130.0
+Analizo la casa 677
+De la calle 3
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  26.0
+Volumen acumulado  130.0
+Analizo la casa 616
+De la calle 3
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  29.0
+Volumen acumulado  130.0
+Analizo la casa 413
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  29.0
+Volumen acumulado  130.0
+Analizo la casa 65
+De la calle 1
+Tengo que entregar  2 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  31.0
+Volumen acumulado  130.0
+Analizo la casa 515
+De la calle 3
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  31.0
+Volumen acumulado  130.0
+Analizo la casa 380
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  31.0
+Volumen acumulado  130.0
+Analizo la casa 379
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  31.0
+Volumen acumulado  130.0
+Analizo la casa 547
+De la calle 3
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  31.0
+Volumen acumulado  130.0
+Analizo la casa 552
+De la calle 3
+Tengo que entregar  1 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+===================CARTERO:VUELVO A LA OFICINA: FIN DE JORNADA=============================
+Cartas acumuladas  32.0
+Volumen acumulado  130.0
+Analizo la casa 305
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  32.0
+Volumen acumulado  130.0
+Analizo la casa 216
+De la calle 1
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  32.0
+Volumen acumulado  130.0
+Analizo la casa 601
+De la calle 3
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  3 paquetes en esta casa
+Me muevo
+Cartas acumuladas  35.0
+Volumen acumulado  195.0
+Analizo la casa 433
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  35.0
+Volumen acumulado  195.0
+Analizo la casa 52
+De la calle 1
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  35.0
+Volumen acumulado  195.0
+Analizo la casa 48
+De la calle 1
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  35.0
+Volumen acumulado  195.0
+Analizo la casa 473
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  35.0
+Volumen acumulado  195.0
+Analizo la casa 419
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  35.0
+Volumen acumulado  195.0
+Analizo la casa 683
+De la calle 3
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  35.0
+Volumen acumulado  195.0
+Analizo la casa 310
+De la calle 2
+Tengo que entregar  2 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  37.0
+Volumen acumulado  195.0
+Analizo la casa 420
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  37.0
+Volumen acumulado  195.0
+Analizo la casa 283
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  37.0
+Volumen acumulado  195.0
+Analizo la casa 181
+De la calle 1
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  37.0
+Volumen acumulado  195.0
+Analizo la casa 98
+De la calle 1
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  40.0
+Volumen acumulado  195.0
+Analizo la casa 201
+De la calle 1
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  40.0
+Volumen acumulado  195.0
+Analizo la casa 540
+De la calle 3
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  40.0
+Volumen acumulado  195.0
+Analizo la casa 566
+De la calle 3
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  43.0
+Volumen acumulado  195.0
+Analizo la casa 236
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  43.0
+Volumen acumulado  195.0
+Analizo la casa 636
+De la calle 3
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  46.0
+Volumen acumulado  195.0
+Analizo la casa 488
+De la calle 3
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  46.0
+Volumen acumulado  195.0
+Analizo la casa 659
+De la calle 3
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  46.0
+Volumen acumulado  195.0
+Analizo la casa 111
+De la calle 1
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  3 paquetes en esta casa
+Me muevo
+Cartas acumuladas  49.0
+Volumen acumulado  260.0
+Analizo la casa 14
+De la calle 1
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  49.0
+Volumen acumulado  260.0
+Analizo la casa 97
+De la calle 1
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  52.0
+Volumen acumulado  260.0
+Analizo la casa 468
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  52.0
+Volumen acumulado  260.0
+Analizo la casa 584
+De la calle 3
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  55.0
+Volumen acumulado  260.0
+Analizo la casa 330
+De la calle 2
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  58.0
+Volumen acumulado  260.0
+Analizo la casa 154
+De la calle 1
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  61.0
+Volumen acumulado  260.0
+Analizo la casa 359
+De la calle 2
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  64.0
+Volumen acumulado  260.0
+Analizo la casa 213
+De la calle 1
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  64.0
+Volumen acumulado  260.0
+Analizo la casa 83
+De la calle 1
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  67.0
+Volumen acumulado  260.0
+Analizo la casa 693
+De la calle 3
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  67.0
+Volumen acumulado  260.0
+Analizo la casa 220
+De la calle 1
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  67.0
+Volumen acumulado  260.0
+Analizo la casa 96
+De la calle 1
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  70.0
+Volumen acumulado  260.0
+Analizo la casa 411
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  70.0
+Volumen acumulado  260.0
+Analizo la casa 553
+De la calle 3
+Tengo que entregar  1 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+===================CARTERO:VUELVO A LA OFICINA: FIN DE JORNADA=============================
+Cartas acumuladas  71.0
+Volumen acumulado  260.0
+Analizo la casa 428
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  71.0
+Volumen acumulado  260.0
+Analizo la casa 567
+De la calle 3
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  74.0
+Volumen acumulado  260.0
+Analizo la casa 244
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  74.0
+Volumen acumulado  260.0
+Analizo la casa 424
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  74.0
+Volumen acumulado  260.0
+Analizo la casa 66
+De la calle 1
+Tengo que entregar  2 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  76.0
+Volumen acumulado  260.0
+Analizo la casa 501
+De la calle 3
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  76.0
+Volumen acumulado  260.0
+Analizo la casa 278
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  76.0
+Volumen acumulado  260.0
+Analizo la casa 563
+De la calle 3
+Tengo que entregar  2 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  78.0
+Volumen acumulado  260.0
+Analizo la casa 556
+De la calle 3
+Tengo que entregar  2 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  80.0
+Volumen acumulado  260.0
+Analizo la casa 46
+De la calle 1
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  80.0
+Volumen acumulado  260.0
+Analizo la casa 335
+De la calle 2
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  1 paquetes en esta casa
+Me muevo
+Cartas acumuladas  83.0
+Volumen acumulado  272.0
+Analizo la casa 431
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  83.0
+Volumen acumulado  272.0
+Analizo la casa 530
+De la calle 3
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  83.0
+Volumen acumulado  272.0
+Analizo la casa 60
+De la calle 1
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  83.0
+Volumen acumulado  272.0
+Analizo la casa 8
+De la calle 1
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  83.0
+Volumen acumulado  272.0
+Analizo la casa 226
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  83.0
+Volumen acumulado  272.0
+Analizo la casa 441
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  83.0
+Volumen acumulado  272.0
+Analizo la casa 444
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  83.0
+Volumen acumulado  272.0
+Analizo la casa 626
+De la calle 3
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  86.0
+Volumen acumulado  272.0
+Analizo la casa 632
+De la calle 3
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  89.0
+Volumen acumulado  272.0
+Analizo la casa 40
+De la calle 1
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  89.0
+Volumen acumulado  272.0
+Analizo la casa 610
+De la calle 3
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  1 paquetes en esta casa
+Me muevo
+Cartas acumuladas  92.0
+Volumen acumulado  284.0
+Analizo la casa 85
+De la calle 1
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  95.0
+Volumen acumulado  284.0
+Analizo la casa 228
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  95.0
+Volumen acumulado  284.0
+Analizo la casa 82
+De la calle 1
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  98.0
+Volumen acumulado  284.0
+Analizo la casa 188
+De la calle 1
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  98.0
+Volumen acumulado  284.0
+Analizo la casa 425
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  98.0
+Volumen acumulado  284.0
+Analizo la casa 211
+De la calle 1
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  98.0
+Volumen acumulado  284.0
+Analizo la casa 356
+De la calle 2
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  101.0
+Volumen acumulado  284.0
+Analizo la casa 598
+De la calle 3
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  3 paquetes en esta casa
+Me muevo
+Cartas acumuladas  104.0
+Volumen acumulado  349.0
+Analizo la casa 194
+De la calle 1
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  104.0
+Volumen acumulado  349.0
+Analizo la casa 608
+De la calle 3
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  1 paquetes en esta casa
+Me muevo
+===================CARTERO:VUELVO A LA OFICINA POR MAS CARTAS=============================
+Cartas acumuladas  0.0
+Volumen acumulado  0
+Analizo la casa 615
+De la calle 3
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  3.0
+Volumen acumulado  0.0
+Analizo la casa 199
+De la calle 1
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  3.0
+Volumen acumulado  0.0
+Analizo la casa 241
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  3.0
+Volumen acumulado  0.0
+Analizo la casa 450
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  3.0
+Volumen acumulado  0.0
+Analizo la casa 222
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  3.0
+Volumen acumulado  0.0
+Analizo la casa 205
+De la calle 1
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  3.0
+Volumen acumulado  0.0
+Analizo la casa 108
+De la calle 1
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  1 paquetes en esta casa
+Me muevo
+Cartas acumuladas  6.0
+Volumen acumulado  12.0
+Analizo la casa 157
+De la calle 1
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  9.0
+Volumen acumulado  12.0
+Analizo la casa 549
+De la calle 3
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  9.0
+Volumen acumulado  12.0
+Analizo la casa 303
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  9.0
+Volumen acumulado  12.0
+Analizo la casa 418
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  9.0
+Volumen acumulado  12.0
+Analizo la casa 545
+De la calle 3
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  9.0
+Volumen acumulado  12.0
+Analizo la casa 6
+De la calle 1
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  9.0
+Volumen acumulado  12.0
+Analizo la casa 275
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  9.0
+Volumen acumulado  12.0
+Analizo la casa 655
+De la calle 3
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  9.0
+Volumen acumulado  12.0
+Analizo la casa 346
+De la calle 2
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+===================CARTERO:VUELVO A LA OFICINA: FIN DE JORNADA=============================
+Cartas acumuladas  12.0
+Volumen acumulado  12.0
+Analizo la casa 658
+De la calle 3
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  12.0
+Volumen acumulado  12.0
+Analizo la casa 68
+De la calle 1
+Tengo que entregar  2 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  14.0
+Volumen acumulado  12.0
+Analizo la casa 487
+De la calle 3
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  14.0
+Volumen acumulado  12.0
+Analizo la casa 682
+De la calle 3
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  14.0
+Volumen acumulado  12.0
+Analizo la casa 535
+De la calle 3
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  14.0
+Volumen acumulado  12.0
+Analizo la casa 130
+De la calle 1
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  17.0
+Volumen acumulado  12.0
+Analizo la casa 182
+De la calle 1
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  17.0
+Volumen acumulado  12.0
+Analizo la casa 145
+De la calle 1
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  20.0
+Volumen acumulado  12.0
+Analizo la casa 56
+De la calle 1
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  20.0
+Volumen acumulado  12.0
+Analizo la casa 204
+De la calle 1
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  20.0
+Volumen acumulado  12.0
+Analizo la casa 443
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  20.0
+Volumen acumulado  12.0
+Analizo la casa 668
+De la calle 3
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  20.0
+Volumen acumulado  12.0
+Analizo la casa 105
+De la calle 1
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  1 paquetes en esta casa
+Me muevo
+Cartas acumuladas  23.0
+Volumen acumulado  24.0
+Analizo la casa 641
+De la calle 3
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  26.0
+Volumen acumulado  24.0
+Analizo la casa 485
+De la calle 3
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  26.0
+Volumen acumulado  24.0
+Analizo la casa 456
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  26.0
+Volumen acumulado  24.0
+Analizo la casa 240
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  26.0
+Volumen acumulado  24.0
+Analizo la casa 558
+De la calle 3
+Tengo que entregar  2 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  28.0
+Volumen acumulado  24.0
+Analizo la casa 297
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  28.0
+Volumen acumulado  24.0
+Analizo la casa 149
+De la calle 1
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  31.0
+Volumen acumulado  24.0
+Analizo la casa 604
+De la calle 3
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  3 paquetes en esta casa
+Me muevo
+Cartas acumuladas  34.0
+Volumen acumulado  89.0
+Analizo la casa 644
+De la calle 3
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  37.0
+Volumen acumulado  89.0
+Analizo la casa 516
+De la calle 3
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  37.0
+Volumen acumulado  89.0
+Analizo la casa 482
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  37.0
+Volumen acumulado  89.0
+Analizo la casa 320
+De la calle 2
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  40.0
+Volumen acumulado  89.0
+Analizo la casa 352
+De la calle 2
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  43.0
+Volumen acumulado  89.0
+Analizo la casa 681
+De la calle 3
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  43.0
+Volumen acumulado  89.0
+Analizo la casa 64
+De la calle 1
+Tengo que entregar  2 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  45.0
+Volumen acumulado  89.0
+Analizo la casa 242
+De la calle 2
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Cartas acumuladas  45.0
+Volumen acumulado  89.0
+Analizo la casa 158
+De la calle 1
+Tengo que entregar  3 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa
+Me muevo
+Cartas acumuladas  48.0
+Volumen acumulado  89.0
+Analizo la casa 690
+De la calle 3
+Tengo que entregar  0 cartas en esta casa
+Tengo que entregar  0 paquetes en esta casa

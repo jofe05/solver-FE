@@ -1,0 +1,94 @@
+================= Datos Iniciales ================= 
+Bolso: 150.0
+Carro: 300.0
+Tiempo de entrega de carta: 120.0
+Tiempo de entrega de paquete 300.0
+Jornada[Segundos]: 21600.0
+Velocidad del cartero: 1.4
+Distancia de la calle 1 a la oficina de correos 50.0
+Distancia de la calle 2 a la oficina de correos 120.0
+Distancia de la calle 3 a la oficina de correos 140.0
+Volumen A: 15.0
+Volumen B: 25.0
+Volumen C: 35.0
+ =============================================================================
+***SFJ***
+*** Informe Diario*** 
+
+
+Dia  1
+Tiempo:  21998.5714286 [segundos] 6.11071428571 [horas]
+Cartas sin entregar
+ P1: 10  P2: 11  P3: 9
+Paquetes sin entregar
+ V1: 11  V2: 10  V3: 7
+
+
+Dia  2
+Tiempo:  11157.1428571 [segundos] 3.09920634921 [horas]
+Cartas sin entregar
+ P1: 0  P2: 0  P3: 0
+Paquetes sin entregar
+ V1: 0  V2: 0  V3: 0
+
+
+
+
+Tiempo total para los dias laborables 33155.7142857 [segundos] 9.20992063492 [horas]
+Dias trabajado (dias necesarios) 2 ( 2 )
+Viajes realizados 5
+ =============================================================================
+***Prioridad***
+*** Informe Diario*** 
+
+
+Dia  1
+Tiempo:  21995.7142857 [segundos] 6.10992063492 [horas]
+Cartas sin entregar
+ P1: 9  P2: 9  P3: 7
+Paquetes sin entregar
+ V1: 11  V2: 8  V3: 5
+
+
+Dia  2
+Tiempo:  14365.7142857 [segundos] 3.99047619048 [horas]
+Cartas sin entregar
+ P1: 0  P2: 0  P3: 0
+Paquetes sin entregar
+ V1: 0  V2: 0  V3: 0
+
+
+
+
+Tiempo total para los dias laborables 36361.4285714 [segundos] 10.1003968254 [horas]
+Dias trabajado (dias necesarios) 2 ( 2 )
+Viajes realizados 5
+
+
+
+ =============================================================================
+****FIFO****
+*** Informe Diario*** 
+
+
+Dia  1
+Tiempo:  21897.1428571 [segundos] 6.08253968254 [horas]
+Cartas sin entregar
+ P1: 9  P2: 15  P3: 9
+Paquetes sin entregar
+ V1: 14  V2: 10  V3: 12
+
+
+Dia  2
+Tiempo:  14422.8571429 [segundos] 4.00634920635 [horas]
+Cartas sin entregar
+ P1: 0  P2: 0  P3: 0
+Paquetes sin entregar
+ V1: 0  V2: 0  V3: 0
+
+
+
+
+Tiempo total para los dias laborables 36320.0 [segundos] 10.0888888889 [horas]
+Dias trabajado (dias necesarios) 2 ( 2 )
+Viajes realizados 5

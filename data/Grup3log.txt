@@ -1,0 +1,142 @@
+================= Datos Iniciales ================= 
+Capacidad del bolso: 107.0
+Capacidad del carro [cm3]: 365.0
+Tiempo de entrega de carta [Segundos]: 300.0
+Tiempo de entrega de paquete [Segundos]: 120.0
+Jornada [Segundos]: 21600.0
+Velocidad del cartero: 1.45
+Distancia de la calle 1 a la oficina de correos 100.0
+Distancia de la calle 2 a la oficina de correos 101.0
+Distancia de la calle 3 a la oficina de correos 102.0
+Volumen A: 12.0
+Volumen B: 20.0
+Volumen C: 33.0
+ =============================================================================
+***SFJ***
+*** Informe Diario*** 
+
+
+Dia  1
+Tiempo:  22900.6896552 [segundos] 6.36130268199 [horas]
+Cartas sin entregar
+ P1: 250  P2: 244  P3: 206
+Paquetes sin entregar
+ V1: 60  V2: 35  V3: 26
+
+
+Dia  2
+Tiempo:  22875.862069 [segundos] 6.35440613027 [horas]
+Cartas sin entregar
+ P1: 228  P2: 222  P3: 184
+Paquetes sin entregar
+ V1: 55  V2: 35  V3: 25
+
+
+Dia  3
+Tiempo:  23153.7931034 [segundos] 6.4316091954 [horas]
+Cartas sin entregar
+ P1: 209  P2: 203  P3: 165
+Paquetes sin entregar
+ V1: 36  V2: 21  V3: 15
+
+
+Dia  4
+Tiempo:  23104.8275862 [segundos] 6.41800766284 [horas]
+Cartas sin entregar
+ P1: 185  P2: 179  P3: 141
+Paquetes sin entregar
+ V1: 36  V2: 21  V3: 15
+
+
+
+
+Se necesitan 12 dias para entregar todas las cartas
+Tiempo total para los dias laborables 114780.689655 [segundos] 31.8835249042 [horas]
+Dias trabajado (dias necesarios) 4 ( 12 )
+Viajes realizados 10
+ =============================================================================
+***Prioridad***
+*** Informe Diario*** 
+
+
+Dia  1
+Tiempo:  22915.1724138 [segundos] 6.3653256705 [horas]
+Cartas sin entregar
+ P1: 215  P2: 209  P3: 171
+Paquetes sin entregar
+ V1: 42  V2: 23  V3: 15
+
+
+Dia  2
+Tiempo:  22685.5172414 [segundos] 6.30153256705 [horas]
+Cartas sin entregar
+ P1: 154  P2: 147  P3: 130
+Paquetes sin entregar
+ V1: 36  V2: 21  V3: 15
+
+
+Dia  3
+Tiempo:  21739.3103448 [segundos] 6.03869731801 [horas]
+Cartas sin entregar
+ P1: 91  P2: 90  P3: 80
+Paquetes sin entregar
+ V1: 22  V2: 13  V3: 9
+
+
+Dia  4
+Tiempo:  21800.6896552 [segundos] 6.05574712644 [horas]
+Cartas sin entregar
+ P1: 28  P2: 27  P3: 22
+Paquetes sin entregar
+ V1: 0  V2: 0  V3: 0
+
+
+
+
+Se necesitan 12 dias para entregar todas las cartas
+Tiempo total para los dias laborables 111766.896552 [segundos] 31.0463601533 [horas]
+Dias trabajado (dias necesarios) 4 ( 12 )
+Viajes realizados 6
+ =============================================================================
+****FIFO****
+*** Informe Diario*** 
+
+
+Dia  1
+Tiempo:  22668.2758621 [segundos] 6.29674329502 [horas]
+Cartas sin entregar
+ P1: 262  P2: 254  P3: 210
+Paquetes sin entregar
+ V1: 58  V2: 34  V3: 24
+
+
+Dia  2
+Tiempo:  24768.2758621 [segundos] 6.88007662835 [horas]
+Cartas sin entregar
+ P1: 248  P2: 240  P3: 198
+Paquetes sin entregar
+ V1: 57  V2: 33  V3: 24
+
+
+Dia  3
+Tiempo:  23462.0689655 [segundos] 6.51724137931 [horas]
+Cartas sin entregar
+ P1: 234  P2: 226  P3: 186
+Paquetes sin entregar
+ V1: 54  V2: 30  V3: 22
+
+
+Dia  4
+Tiempo:  22840.6896552 [segundos] 6.34463601533 [horas]
+Cartas sin entregar
+ P1: 216  P2: 208  P3: 171
+Paquetes sin entregar
+ V1: 52  V2: 29  V3: 21
+
+
+
+
+Se necesitan 19 dias para entregar todas las cartas
+Tiempo total para los dias laborables 117920.0 [segundos] 32.7555555556 [horas]
+Dias trabajado (dias necesarios) 4 ( 19 )
+Viajes realizados 7
